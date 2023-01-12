@@ -11,6 +11,8 @@ import "solidity-coverage";
 
 import * as dotenv from "dotenv";
 
+import "./tasks/NFTComicsTasks.ts";
+
 dotenv.config();
 
 const accounts =
